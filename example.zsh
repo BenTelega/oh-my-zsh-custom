@@ -10,3 +10,8 @@
 # 
 # brainstormr=~/Projects/development/planetargon/brainstormr
 # cd $brainstormr
+#
+alias c="clear"
+alias zconf="vim ~/.zshrc"
+alias zupd="source ~/.zshrc"
+alias ng-restart="sudo systemctl restart nginx"
